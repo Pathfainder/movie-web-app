@@ -1,10 +1,10 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
-  VITE_CORS_PROXY_URL: "https://charming-churros-5d8f61.netlify.app",
+  VITE_CORS_PROXY_URL: "",
 
   // The READ API key to access TMDB
-  VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MmMzODFmMjA4ZDJlN2JhM2ZjNTJjOTZmZGQwNzEyNiIsInN1YiI6IjY2MTQ3MmQyNTkwMDg2MDBlMzdjYTViYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.NYi7Z19U3eq66YyV4StGiUH4TmqnQzU-ueKsrh4BUB8",
+  VITE_TMDB_READ_API_KEY: "",
 
   // The DMCA email displayed in the footer, null to hide the DMCA link
   VITE_DMCA_EMAIL: null,
